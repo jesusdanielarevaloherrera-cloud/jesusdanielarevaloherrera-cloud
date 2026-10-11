@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Banner de Bienvenida -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20Jesus'%20Github&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <!-- Banner con paisaje oscuro minimalista (similar al de la referencia) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6eec5c83.gif" width="100%" alt="Dark Landscape Banner" />
 
-  <br />
+  <br /><br />
 
   <!-- Botones de Redes / Contacto -->
   <a href="TU_LINKEDIN_URL">
@@ -21,7 +21,6 @@
   <!-- Sección Tecnologías -->
   <h2>🎯 Technologies</h2>
 
-  <!-- Badges de Tecnologías -->
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -40,7 +39,6 @@
   <!-- Sección Estadísticas de Aportes -->
   <h2>📊 Statistics</h2>
 
-  <!-- Gráfico de Contribuciones (Snake o Activity) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
@@ -49,19 +47,19 @@
 
 ---
 
-<!-- Sección Sobre Mí (Con Foto/Ilustración al lado) -->
+<!-- Sección Sobre Mí -->
 <h2>🎯 About Me</h2>
 
 <table>
   <tr>
     <td width="35%" align="center">
-      <!-- Puedes subir tu propia ilustración/avatar a GitHub y reemplazar este enlace -->
+      <!-- Tu avatar o ilustración -->
       <img src="https://raw.githubusercontent.com/gist/assets/33c9424e8e81134a66a337651c5f3e9b/avatar.png" width="220px" alt="Avatar" />
     </td>
     <td width="65%">
       Hello! My name is <b>Jesús Arevalo</b>. I am an aspiring <b>Data Analyst</b> and <b>Technical Virtual Assistant</b> building my personal brand <b>JD EXPRESS</b>. 
       <br /><br />
-      I am passionate about turning messy data into valuable insights, building relational databases with <b>SQL</b>, automation workflows with <b>n8n</b>, and creating modern web support interfaces with <b>HTML, CSS, and JavaScript</b>. Currently focusing on mastering Python for data analytics.
+      I am passionate about turning messy data into valuable insights, building relational databases with <b>SQL</b>, automation workflows with <b>n8n</b>, and creating modern web support interfaces with <b>HTML, CSS, and JavaScript</b>.
     </td>
   </tr>
 </table>
@@ -83,6 +81,5 @@
     <b>Current Goal:</b> Mastering Python for Data Science & Advanced SQL Querying.
   </p>
 
-  <!-- Imagen / GIF decorativo (Ej. Pokémon o similar) -->
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="120px" alt="Blastoise" />
 </div>
