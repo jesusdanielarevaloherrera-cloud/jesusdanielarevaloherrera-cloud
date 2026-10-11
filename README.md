@@ -1,85 +1,92 @@
 <div align="center">
 
-  <!-- Banner con paisaje oscuro minimalista (similar al de la referencia) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6eec5c83.gif" width="100%" alt="Dark Landscape Banner" />
+  <!-- Header Banner Wavy Purple/Dark -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b1836&height=120&section=header" width="100%" alt="Header" />
 
-  <br /><br />
-
-  <!-- Botones de Redes / Contacto -->
-  <a href="TU_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="TU_PORTAFOLIO_URL">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-
-  <br /><br />
-
-  <!-- Sección Tecnologías -->
-  <h2>🎯 Technologies</h2>
-
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <br />
-  <img src="https://img.shields.io/badge/N8N-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
-  <br /><br />
+  <!-- Nombre Principal -->
+  <h1>Jesús Arevalo</h1>
+  <p><b>Data Analyst</b> • <b>Technical Virtual Assistant</b> <b></b></p>
 
-  <!-- Sección Estadísticas de Aportes -->
-  <h2>📊 Statistics</h2>
+  <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <!-- Tarjeta ASCII / Hello World + GIF -->
+  <table border="0" align="center">
+    <tr>
+      <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 8px;">
+        <pre>
+ █░█ █▀▀ █░░ █░░ █▀█   █░█░█ █▀█ █░█ █░░ █▀▄ █
+ █▀█ ██▄ █▄▄ █▄▄ █▄█   ▀▄▀▄▀ █▄█ █▀█ █▄▄ █▄▀ ░
+        </pre>
+      </td>
+    </tr>
+  </table>
+
+  <p><code>• Sistema online — Bienvenido </code></p>
 
 </div>
 
 <br />
 
----
+## Sobe mi
+<hr />
 
-<!-- Sección Sobre Mí -->
-<h2>🎯 About Me</h2>
-
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <!-- Tu avatar o ilustración -->
-      <img src="https://raw.githubusercontent.com/gist/assets/33c9424e8e81134a66a337651c5f3e9b/avatar.png" width="220px" alt="Avatar" />
-    </td>
-    <td width="65%">
-      Hello! My name is <b>Jesús Arevalo</b>. I am an aspiring <b>Data Analyst</b> and <b>Technical Virtual Assistant</b> building my personal brand <b>JD EXPRESS</b>. 
-      <br /><br />
-      I am passionate about turning messy data into valuable insights, building relational databases with <b>SQL</b>, automation workflows with <b>n8n</b>, and creating modern web support interfaces with <b>HTML, CSS, and JavaScript</b>.
-    </td>
-  </tr>
-</table>
+Soy **Jesús Arevalo**, Licenciado en Histocitotecnologia, estudiante de análisis de datos y asistente virtual técnico, creador de **JD EXPRESS**. Me especializo en transformar datos brutos en información accionable, estructurar bases de datos relacionales, automatizar flujos de trabajo con **n8n** y **Notion**, y desarrollar interfaces web con **HTML, CSS y JavaScript**. Actualmente, estoy perfeccionando mis conocimientos en Python para ciencia de datos y SQL avanzado.
 
 <br />
 
----
-
-<!-- Sección Hobbies & Goals -->
 <div align="center">
-  <h2>🎯 Hobbies & Goals</h2>
 
+  <!-- Stack / Badges estilo Píldora Compacta Oscura -->
   <p>
-    <i>"El aprendizaje constante es la única ventaja competitiva real."</i>
+    <img src="https://img.shields.io/badge/SQL-1f232a?style=flat&logo=postgresql&logoColor=336791" />
+    <img src="https://img.shields.io/badge/Python-1f232a?style=flat&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/MySQL-1f232a?style=flat&logo=mysql&logoColor=4479A1" />
+    <img src="https://img.shields.io/badge/JavaScript-1f232a?style=flat&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/HTML5-1f232a?style=flat&logo=html5&logoColor=E34F26" />
+    <img src="https://img.shields.io/badge/CSS3-1f232a?style=flat&logo=css3&logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/n8n-1f232a?style=flat&logo=n8n&logoColor=FF6584" />
+    <img src="https://img.shields.io/badge/Notion-1f232a?style=flat&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-1f232a?style=flat&logo=git&logoColor=F05032" />
+    <img src="https://img.shields.io/badge/VS_Code-1f232a?style=flat&logo=visual-studio-code&logoColor=007ACC" />
   </p>
 
+</div>
+
+<br />
+<hr />
+<br />
+  <!-- Bloque de Métricas (Streak + Stats) -->
+
+## 🏆 Proyectos
+<hr />
+
+* 🚀 **JD** — Repositorio de marca personal y aprendizaje público sobre análisis de datos.
+* 📊 **Limpieza y análisis de datos con SQL** — Scripts para bases de datos relacionales de comercio electrónico e inventario.
+* ⚡ **Flujos de trabajo y automatización** — Gestión de tareas operativas integrada con n8n y Notion.
+
+<br />
+
+<div align="center">
+
+  <h3>Construyamos algo.</h3>
+
+  <p><code>📍 Maracay, Venezuela</code> • <code>📩 jesusarevalo.data@gmail.com</code></p>
+
+  <!-- Botones de contacto minimalistas -->
   <p>
-    <b>Brands & Projects:</b> JD EXPRESS 🚀<br />
-    <b>Current Goal:</b> Mastering Python for Data Science & Advanced SQL Querying.
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jesusdanielarevaloherrera.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="120px" alt="Blastoise" />
+  <br />
+
+  <!-- Footer Banner Wavy Purple/Dark -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b1836&height=100&section=footer" width="100%" alt="Footer" />
+
 </div>
