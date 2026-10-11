@@ -1,137 +1,88 @@
 <div align="center">
 
-<!-- Banner minimalista; puedes quitarlo si prefieres un encabezado más sencillo. -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:06111F,100:073B46&text=Hola,%20soy%20Jes%C3%BAs%20Daniel&fontColor=E6F7FF&fontSize=30&fontAlignY=43&desc=Analista%20de%20Datos%20%7C%20Asistente%20Virtual%20%7C%20Automatizaci%C3%B3n&descAlignY=70&descSize=14" alt="Banner de perfil" width="100%" />
+  <!-- Banner de Bienvenida -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20Jesus'%20Github&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
-<!-- FOTO OPCIONAL: reemplaza URL_DE_TU_FOTO por la URL pública de tu imagen.
-     También puedes subir una imagen al repositorio, por ejemplo assets/avatar.jpg,
-     y usar: <img src="./assets/avatar.jpg" ... />
--->
-<img src="URL_DE_TU_FOTO" width="150" height="150" alt="Mi foto de perfil (opcional)" style="border-radius:50%;" />
+  <br />
 
-# Jesús Daniel Arévalo
+  <!-- Botones de Redes / Contacto -->
+  <a href="TU_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="TU_PORTAFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 
-### Analista de Datos · Asistente Virtual · Automatización
+  <br /><br />
 
-Transformo datos en decisiones, creo soluciones digitales y automatizo procesos para hacer el trabajo más fácil.
+  <!-- Sección Tecnologías -->
+  <h2>🎯 Technologies</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20repositorios-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesusdanielarevaloherrera-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Correo](https://img.shields.io/badge/Correo-Contactarme-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusdanielarevaloherrera@gmail.com)
+  <!-- Badges de Tecnologías -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/N8N-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
-![Estado](https://img.shields.io/badge/Estado-Siempre%20aprendiendo-10B981?style=flat-square)
-![Enfoque](https://img.shields.io/badge/Enfoque-Datos%20%2B%20Automatizaci%C3%B3n-06B6D4?style=flat-square)
+  <br /><br />
+
+  <!-- Sección Estadísticas de Aportes -->
+  <h2>📊 Statistics</h2>
+
+  <!-- Gráfico de Contribuciones (Snake o Activity) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
+
+<br />
 
 ---
 
-## `> Sobre mí`
-
-Me interesa convertir datos en información útil, simplificar tareas repetitivas y desarrollar herramientas digitales que resuelvan problemas reales.
-
-- 📊 Análisis, limpieza y visualización de datos.
-- 🗄️ Consultas SQL y gestión de bases de datos.
-- 📈 Informes y dashboards en Power BI.
-- 🤖 Asistentes virtuales, chatbots y flujos automatizados.
-- 🧩 Soluciones digitales e integración de herramientas.
-
-> **Mi filosofía:** la tecnología no reemplaza el talento; lo potencia.
-
-## `> Stack tecnológico`
-
-<div align="center">
-
-**Datos y visualización**
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite" alt="Python, PostgreSQL, MySQL y SQLite" />
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-
-**Automatización y desarrollo**
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,git,github,vscode,docker" alt="JavaScript, TypeScript, HTML, CSS, React, Git, GitHub, VS Code y Docker" />
-
-<img src="https://img.shields.io/badge/n8n-Automatizaci%C3%B3n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/OpenAI-IA%20aplicada-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-
-</div>
-
-## `> Proyectos destacados`
+<!-- Sección Sobre Mí (Con Foto/Ilustración al lado) -->
+<h2>🎯 About Me</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚽ Football Data Analytics
-
-Análisis de datos de ligas de fútbol: limpieza, consultas SQL y preparación de indicadores para un dashboard en Power BI.
-
-**Flujo:** Limpieza → PostgreSQL → Power BI
-
-[Ver mis repositorios →](https://github.com/jesusdanielarevaloherrera-cloud?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 EcoReport PRO
-
-Aplicación orientada a la elaboración de informes médicos, con plantillas, gestión de pacientes y generación de documentos.
-
-**Enfoque:** digitalización de procesos clínicos.
-
-[Ver mis repositorios →](https://github.com/jesusdanielarevaloherrera-cloud?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Bot de cotización para laboratorio clínico
-
-Automatización de procesos de cotización mediante flujos de trabajo e integraciones.
-
-[Ver repositorio →](https://github.com/jesusdanielarevaloherrera-cloud/Bot-de-Cotizaci-n-para-Laboratorio-Cl-nico-n8n)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔄 Limpieza de datos — Pipeline
-
-Preparación y limpieza de datos antes del análisis, con un flujo de trabajo reproducible.
-
-[Ver repositorio →](https://github.com/jesusdanielarevaloherrera-cloud/Limpieza-datos-pipeline)
-
-</td>
-</tr>
+  <tr>
+    <td width="35%" align="center">
+      <!-- Puedes subir tu propia ilustración/avatar a GitHub y reemplazar este enlace -->
+      <img src="https://raw.githubusercontent.com/gist/assets/33c9424e8e81134a66a337651c5f3e9b/avatar.png" width="220px" alt="Avatar" />
+    </td>
+    <td width="65%">
+      Hello! My name is <b>Jesús Arevalo</b>. I am an aspiring <b>Data Analyst</b> and <b>Technical Virtual Assistant</b> building my personal brand <b>JD EXPRESS</b>. 
+      <br /><br />
+      I am passionate about turning messy data into valuable insights, building relational databases with <b>SQL</b>, automation workflows with <b>n8n</b>, and creating modern web support interfaces with <b>HTML, CSS, and JavaScript</b>. Currently focusing on mastering Python for data analytics.
+    </td>
+  </tr>
 </table>
 
-## `> Estadísticas de GitHub`
+<br />
 
+---
+
+<!-- Sección Hobbies & Goals -->
 <div align="center">
+  <h2>🎯 Hobbies & Goals</h2>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jesusdanielarevaloherrera-cloud&show_icons=true&hide_border=true&bg_color=06111F&title_color=22D3EE&icon_color=34D399&text_color=DBEAFE&rank_icon=github" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdanielarevaloherrera-cloud&layout=compact&hide_border=true&bg_color=06111F&title_color=22D3EE&text_color=DBEAFE" alt="Lenguajes más usados" />
+  <p>
+    <i>"El aprendizaje constante es la única ventaja competitiva real."</i>
+  </p>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusdanielarevaloherrera-cloud&hide_border=true&background=06111F&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE&sideLabels=DBEAFE&dates=94A3B8" alt="Racha de contribuciones" />
+  <p>
+    <b>Brands & Projects:</b> JD EXPRESS 🚀<br />
+    <b>Current Goal:</b> Mastering Python for Data Science & Advanced SQL Querying.
+  </p>
 
-</div>
-
-## `> Contacto`
-
-¿Tienes una idea o un proyecto relacionado con datos, asistentes virtuales o automatización? ¡Hablemos!
-
-- **GitHub:** [@jesusdanielarevaloherrera-cloud](https://github.com/jesusdanielarevaloherrera-cloud)
-- **Correo:** [jesusdanielarevaloherrera@gmail.com](mailto:jesusdanielarevaloherrera@gmail.com)
-- **LinkedIn:** [Añade aquí tu perfil real](https://www.linkedin.com/)
-
-<div align="center">
-
-`Gracias por visitar mi perfil` ✨
-
-*Grandes ideas nacen de la curiosidad y la constancia.*
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=jesusdanielarevaloherrera-cloud&style=flat-square&color=0F766E)
-
+  <!-- Imagen / GIF decorativo (Ej. Pokémon o similar) -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="120px" alt="Blastoise" />
 </div>
