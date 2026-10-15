@@ -28,7 +28,7 @@
 ## Sobe mi
 <hr />
 
-Soy **Jesús Arevalo**, Licenciado en Histocitotecnologia, estudiante de análisis de datos y asistente virtual técnico, creador de **JD EXPRESS**. Me especializo en transformar datos brutos en información accionable, estructurar bases de datos relacionales, automatizar flujos de trabajo con **n8n** y **Notion**, y desarrollar interfaces web con **HTML, CSS y JavaScript**. Actualmente, estoy perfeccionando mis conocimientos en Python para ciencia de datos y SQL avanzado.
+Soy **Jesús Arevalo**, Licenciado en Histocitotecnologia, estudiante de análisis de datos y asistente virtual técnico. Me especializo en transformar datos brutos en información accionable, estructurar bases de datos relacionales, automatizar flujos de trabajo con **n8n** y **Notion**, y desarrollar interfaces web con **HTML, CSS y JavaScript**. Actualmente, estoy perfeccionando mis conocimientos en Python para ciencia de datos y SQL avanzado.
 
 <br />
 
