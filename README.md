@@ -16,8 +16,7 @@
     <tr>
       <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 8px;">
         
-      </td>
-    </tr>
+
   </table>
 
   <p><code>• Sistema online — Bienvenido </code></p>
